@@ -8,6 +8,7 @@
     /*height: auto;
     width: auto;*/
     
+    height: 100%;
     width: auto;
     object-fit: cover; 
 }
