@@ -1,0 +1,18 @@
+.carousel-item {
+    max-height: 85vh;
+}
+
+
+.carousel-inner > .carousel-item > img {
+    /*max-height:80vh !important;*/
+    /*height: auto;
+    width: auto;*/
+    
+    width: auto;
+    object-fit: cover; 
+}
+
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.35);
+}
